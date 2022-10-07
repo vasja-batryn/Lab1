@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лабораторна робота 1</string>
+    <string name="enter_degree">Введіть температуру</string>
+    <string name="Error">Помилка</string>
+</resources>
